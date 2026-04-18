@@ -21,8 +21,8 @@ Le dépôt est organisé par thématiques pour faciliter la navigation :
 
 Le contenu de ce dépôt est lié à l'activité de notre communauté. Pour discuter de ces cours ou poser des questions :
 
-* **Discord :** [Rejoindre le Maker Hub]([https://discord.gg/QNEzFvfCaS])
-* **Site Web :** [Maker Hub]([https://votre-site.fr](https://antoinepolo.github.io/makerhub-website/index.html))
+* **Discord :** [Rejoindre le Maker Hub](https://discord.gg/QNEzFvfCaS)
+* **Site Web :** [Maker Hub](https://antoinepolo.github.io/makerhub-website/index.html)
 
 ---
 > **Note :** Ce projet est **créé et géré par des étudiants**. L'objectif est de ne devenir expert en rien, mais d'être bon en tout. Propulsé par la curiosité. ⚙️

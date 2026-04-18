@@ -27,5 +27,7 @@ Le contenu de ce dépôt est lié à l'activité de notre communauté. Pour disc
 ---
 > **Note :** Ce projet est **créé et géré par des étudiants**. L'objectif est de ne devenir expert en rien, mais d'être bon en tout. Propulsé par la curiosité. ⚙️
 
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
 ## ⚖️ Licence
 Ce projet est sous licence **Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International**.
